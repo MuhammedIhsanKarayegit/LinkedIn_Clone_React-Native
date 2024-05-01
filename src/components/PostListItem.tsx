@@ -63,7 +63,7 @@ export default function PostListItem({ post }:PostListItemProps){
 
 const styles = StyleSheet.create({
     container:{
-        //backgroundColor: 'red',
+        backgroundColor: 'white',
     },
     //Header
     header:{
